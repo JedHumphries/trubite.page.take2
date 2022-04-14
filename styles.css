@@ -1,1 +1,39 @@
-/* Copy and paste your CSS from CodePen into here */
+html {
+  background-color: blue;
+}
+html {
+   min-height: 100%;
+   background-image: url(https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+p {
+  font-size: 19px;
+  color: white;
+}
+h2 {
+  color: black;
+  font-size: 30px
+}
+#title {
+  color: darkred;
+  font-size:100px;
+  font-family: 'Bebas Neue', cursive;
+margin-left: 425px; 
+  
+}
+  #image {
+width: 100%;
+height: auto;
+max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#tribute-info {
+  color: red;
+}
+figcaption {
+  margin-left: 575px
+}
